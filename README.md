@@ -16,3 +16,8 @@ trends, disparities, and key patterns. The objectives include understanding whic
 subgroups are most affected, how mental health metrics have changed over time, how
 different states compare, and how reliable the reported data is through confidence
 intervals and quartile analysis.
+
+By conducting this analysis, the project aims to provide insights that can help public
+health professionals, policymakers, and mental health advocates better understand the
+scope and variation of mental health issues during challenging periods. Such insights are
+crucial for designing effective interventions, allocating resources, and crafting datadriven awareness campaigns.
